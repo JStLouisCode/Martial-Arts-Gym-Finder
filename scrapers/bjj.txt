@@ -1,0 +1,79 @@
+Club Name: Alcaetia Brazilian Jiu Jitsu, City: Belleville
+Club Name: Ape Jiu Jitsu, City: Kingsville
+Club Name: Armstrong Academy of Martial Arts, City: Chatham
+Club Name: Aurora Dojo, City: Aurora
+Club Name: Avail Academy Brazilian Jiu Jitsu, City: Burlington
+Club Name: Bad Boyz MMA, City: London
+Club Name: Barrie Brazilian Jiu Jitsu, City: Barrie
+Club Name: Barrie Taekwondo & Martial Arts, City: Wasaga Beach
+Club Name: Barton's Martial Arts, City: Collingwood
+Club Name: BJJ Battalion, City: Etobicoke
+Club Name: Black Eagle Martial Arts, City: Hamilton
+Club Name: Bowler's Brazilian Jiu Jitsu, City: Flesherton
+Club Name: Brasa Bowen BJJ, City: St. Thomas
+Club Name: Burlington BJJ, City: Burlington
+Club Name: Caged Dragon BJJ, City: Brantford
+Club Name: Cavalo Martial Arts Inc., City: Keswick
+Club Name: Champs Academy, City: Barrie
+Club Name: Crossroads Martial Fitness Academy, City: Brampton
+Club Name: Doggpound MMA, City: Brampton
+Club Name: Enhanced BJJ, City: London
+Club Name: Genesis Brazilian Jiu Jitsu, City: Braeside
+Club Name: Golden Tiger, City: Hanover
+Club Name: Gracie Barra London, City: London
+Club Name: Gracie Barra West Downtown Toronto, City: Toronto
+Club Name: Grappling Arts Academy, City: Mississauga
+Club Name: Hamilton School of Martial Arts, City: Hamilton
+Club Name: Hayabusa Academy, City: Kingston
+Club Name: Huron-Bruce Mixed Martial Arts, City: Kincardine
+Club Name: Hybrid Training Academy, City: Belle River
+Club Name: K.O. Martial Arts, City: Minden
+Club Name: Kalsamrit Martial Arts, City: Bowmanville
+Club Name: Kemptville Academy of Martial Arts, City: Kemptville
+Club Name: Kokon Jiu-Jitsu and Karate, City: Niagara Falls
+Club Name: Kombat Arts Training Academy, City: Mississauga
+Club Name: Lopes BJJ, City: Prescott
+Club Name: Niagara Vanguard, City: Welland
+Club Name: Northern Karate Schools, City: Vaughan
+Club Name: Northern Tsunami Studio, City: North Bay
+Club Name: Nu Wave Jiu Jitsu Academy, City: Etobicoke
+Club Name: Passador Jiu Jitsu Academy, City: Niagara Falls
+Club Name: Perth Combat Club, City: Perth
+Club Name: Platinum MMA Training Facility, City: London
+Club Name: ProSpar Martial Arts Centre, City: Barrie
+Club Name: Renfrew Brazilian Jiu-Jitsu, City: Renfrew
+Club Name: Return Of The Dragon MA, City: Kitchener
+Club Name: Revelation Martial Arts and Fitness, City: Brockville
+Club Name: Richmond Hill Budokan, City: Richmond Hill
+Club Name: Ryusyokai Inaka Karate Dojo, City: Lively
+Club Name: S.K.I.L.L. Dojo, City: Strathroy
+Club Name: Sanguebom Jiu Jitsu, City: Burlington
+Club Name: Sei Con Japanese Jiu Jitsu, City: St. Catharines
+Club Name: Simcoe County Martial Arts, City: Essa
+Club Name: Stasis, City: Innisfil
+Club Name: Steel City MMA, City: Sault Ste. Marie
+Club Name: Stratford BJJ, City: Stratford
+Club Name: Surge MMA, City: Bourget
+Club Name: Tanuki Martial Arts, City: Toronto
+Club Name: Taylor Jiu-Jitsu, City: Peterborough
+Club Name: Team Canada Black Belt Institute, City: Oshawa
+Club Name: Team DNA BJJ, City: Halifax
+Club Name: The Rumble Academy, City: Brantford
+Club Name: The Submission Academy, City: London
+Club Name: Timmins Brazilian Jiu Jitsu, City: South Porcupine
+Club Name: Timmins Judo & Jiu Jitsu Academy, City: Timmins
+Club Name: Toronto BJJ, City: Toronto
+Club Name: Union Jiu Jitsu, City: Chatham
+Club Name: United Brazilian Jiu Jitsu, City: Cobourg
+Club Name: United Grappling Club, City: Toronto
+Club Name: Waterloo Jiu Jitsu Club, City: Waterloo
+Club Name: World Champion Martial Arts, City: Peterborough
+Club Name: Xtreme Couture Toronto, City: Toronto
+Club Name: Zen Mixed Martial Arts, City: Ottawa
+Club Name: Kazoku Jiu Jitsu Arnprior, City: Kanata
+Club Name: Niagara Top Team, City: St. Catharines
+Club Name: Unit Jiu Jitsu, City: Sauble Beach
+Club Name: Goshin Kai School of Self Defense, City: Burlington
+Club Name: Champs Academy Stouffville, City: Stouffville
+Club Name: Barton's Martial Arts, City: Nipissing
+Club Name: Danforth Karate Academy Downtown, City: Toronto

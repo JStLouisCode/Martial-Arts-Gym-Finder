@@ -1,0 +1,142 @@
+Club Name: 13th Round Fight for Life, City: Toronto
+Club Name: Abomb Boxing, City: Windsor
+Club Name: AFT Boxing Academy Brantford, City: Brantford
+Club Name: Ajax Boxing Club, City: Ajax
+Club Name: Amazing Fitness Clubs Inc., City: Hamilton
+Club Name: Ashukian's Academy of Boxing, City: Scarborough
+Club Name: Atlas Boxing Club, City: Toronto
+Club Name: Bay Area Athletic Club, City: Burlington
+Club Name: Beaver Boxing Club, City: Ottawa
+Club Name: Bell City Boxing Club, City: Brantford
+Club Name: Black Dog Boxing Club, City: Courtice
+Club Name: Black Tigers Gym, City: Toronto
+Club Name: Blands Boxing Club, City: Welland
+Club Name: Blaze Performance Training Inc., City: Orangeville
+Club Name: Bloor Street Boxing, City: Toronto
+Club Name: Blue Collar Boxing Academy, City: Windsor
+Club Name: Bluewater Boxing Club, City: Sarnia
+Club Name: BODY BY DEX STUDIO, City: Toronto
+Club Name: Boomerz Boxing Club, City: London
+Club Name: Border City Boxing Club, City: Windsor
+Club Name: Boxing Without Barriers, City: Ottawa
+Club Name: Bramalea Boxing Club, City: Brampton
+Club Name: Brampton Boxing, City: Brampton
+Club Name: Brampton Boxing Gym, City: Brampton
+Club Name: Brantford Blackeye Boxing Club, City: Brantford
+Club Name: BUDO Canada, City: Toronto
+Club Name: Bulldog Boxing & MMA Academy Limited, City: Mississauga
+Club Name: Bulldog Boxing & MMA Academy, City: Mississauga
+Club Name: Bulldog Boxing Academy, City: Belleville
+Club Name: Bushido Boxing, City: London
+Club Name: Cabbagetown Boxing Club, City: Toronto
+Club Name: Cardoso Boxing Club, City: Milton
+Club Name: Champion Boxing Club, City: Toronto
+Club Name: Championship City Boxing Club, City: St. Thomas
+Club Name: Champs Eastside Boxing Club, City: Cornwall
+Club Name: Cheriki Academy, City: Richmond Hill
+Club Name: City Boxing Club, City: Niagara Falls
+Club Name: Comodus Boxing Club Ltd., City: Perth
+Club Name: Corcoran’s Boxing Club & Fitness Centre, City: Peterborough
+Club Name: DC Boxing Academy, City: Guelph
+Club Name: Delgado Boxing Battle Arts Academy, City: Mississauga
+Club Name: Destiny Boxing, City: Kitchener
+Club Name: Dewith Frazer Boxing & Fitness Inc., City: Mississauga
+Club Name: Diamond Fitness MMA, City: Napanee
+Club Name: Dog Pound Boxing Academy, City: Belleville
+Club Name: Eastside Boxing & Wellness, City: Oshawa
+Club Name: Favela Training Center, City: Toronto
+Club Name: Fearless Boxing Club, City: Toronto
+Club Name: Fearless MMA, City: Aurora
+Club Name: Fighting Island, City: Amherstburg
+Club Name: First Strike Boxing, City: London
+Club Name: Gideon Boxing Academy, City: Scarborough
+Club Name: Girls Just Wanna Box, City: Scarborough
+Club Name: Glory MMA, City: Vaughan
+Club Name: Gloves Up Boxing, City: Toronto
+Club Name: GOLD SPORT LIFE INC., City: Vaughan
+Club Name: Golden Tiger, City: Hanover
+Club Name: Grant Boxing Gym, City: Toronto
+Club Name: Guelph MMA, City: Guelph
+Club Name: HUF GYM INC, City: Mississauga
+Club Name: InsightX Boxing, City: Scarborough
+Club Name: Jamestown Boxing Club, City: Oshawa
+Club Name: JTI Boxing, City: Oakville
+Club Name: K.O. Club Martial Arts & Fitness Inc., City: Maple
+Club Name: Kent Athletic Youth Organization, City: Chatham
+Club Name: Kingston Youth Boxing Club, City: Kingston
+Club Name: Kingsway Boxing Club, City: Toronto
+Club Name: Knockout Brampton Boxing, City: Brampton
+Club Name: Kombat Arts Training Academy Inc., City: Mississauga
+Club Name: Leading Edge Boxing, City: Thunder Bay
+Club Name: Legends MMA, City: Brampton
+Club Name: M.P.T Fitness and Boxing, City: London
+Club Name: MARTIAL ARTS FITNESS ACADEMY (MAFA), City: Mississauga
+Club Name: McEwans Pro Street Gym, City: Toronto
+Club Name: McGrory’s Boxing Club, City: Hamilton
+Club Name: Mecha Martial Arts & Athletics [Boxing], City: Kenora
+Club Name: MJKO Boxing, City: Toronto
+Club Name: N1 Thai Boxing Academy, City: Ottawa
+Club Name: Napper’s Boxing Club, City: Welland
+Club Name: Neak Ta Martial Arts, City: Ottawa
+Club Name: Niagara Falls Boxing Club, City: Niagara Falls
+Club Name: No Excuse Boxing & Fitness, City: Burlington
+Club Name: Oakville Boxing Academy, City: Oakville
+Club Name: OBFT Inc, City: Oakville
+Club Name: Old School Boxing, City: Hamilton
+Club Name: Ottawa Fight & Fitness, City: Ottawa
+Club Name: Ottawa Valley Boxing, City: Ottawa
+Club Name: Pasch Time Boxing, City: London
+Club Name: PAUL BROWN BOX FIT, City: Toronto
+Club Name: Pembroke Boxing Club, City: Pembroke
+Club Name: Pinnacle Boxing, City: Belleville
+Club Name: Platinum Training Facility, City: London
+Club Name: Posteraro’s Boxing Gym Inc., City: Oshawa
+Club Name: Ragnarok Boxing Club, City: Simcoe
+Club Name: Red Owl Scarborough, City: Scarborough
+Club Name: Regency Boxing, City: Milton
+Club Name: Ring London Boxing, City: London
+Club Name: RJF Boxing Club (Youth Unlimited), City: Toronto
+Club Name: Rockland Academy of Martial Arts, City: Rockland
+Club Name: Royal City Youth Boxing, City: Guelph
+Club Name: Saliwan Boxing Club, City: Vaughan
+Club Name: Scarberian Boxing Club, City: Scarborough
+Club Name: Scrapyard Boxing Club, City: Peterborough
+Club Name: Shipyards Boxing, City: Collingwood
+Club Name: Shore Boxing Club, City: Mississauga
+Club Name: Siberia Boxing Club, City: North York
+Club Name: Southpaw Boxing Club, City: Brockville
+Club Name: Sparta Bando Club, City: Union
+Club Name: Special T Boxing, City: Mississauga
+Club Name: Spooners Boxing Academy, City: Thunder Bay
+Club Name: St Catharines Boxing Club, City: St. Catharines
+Club Name: Steeltown Boxing, City: Hamilton
+Club Name: Stockyards Boxing & Fitness, City: Toronto
+Club Name: Stratford Brazilian Jiu Jitsu Academy, City: Stratford
+Club Name: Striking Tactics MMA & Fitness, City: Toronto
+Club Name: Sully’s Boxing Gym, City: Toronto
+Club Name: Ten Eight Boxing Club, City: Ottawa
+Club Name: The Boxing Factory, City: Lindsay
+Club Name: THE BOXING LAB, City: Brampton
+Club Name: The Cave Boxing & Fitness, City: Ajax
+Club Name: The Factory Martial Arts, Boxing & Fitness, City: Mississauga
+Club Name: The Underground Gym, City: Thunder Bay
+Club Name: The Whip Boxing & Fitness, City: Kitchener
+Club Name: Thousand Islands Youth Boxing Club, City: Gananoque
+Club Name: TNT Boxing Academy, City: Guelph
+Club Name: Tomines Boxing, City: Hamilton
+Club Name: Top Glove Boxing Academy, City: Sudbury
+Club Name: Toronto Boxing Academy, City: Toronto
+Club Name: Toronto Kickboxing & Muay Thai Academy, City: Toronto
+Club Name: Twin Tiger Boxing Academy, City: Collingwood
+Club Name: United Boxing Club, City: Toronto
+Club Name: Uptown Boxing Club, City: Barrie
+Club Name: Valhalla MMA, City: Cambridge
+Club Name: Valley East Boxing Club, City: Val Caron
+Club Name: Waterloo Regional Boxing Academy, City: Kitchener
+Club Name: West End Athletic Club, City: Etobicoke
+Club Name: West Windsor Boxing Club, City: Windsor
+Club Name: Windsor Amateur Boxing Club, City: Windsor
+Club Name: Wismer Boxing Club and Fitness Centre, City: Markham
+Club Name: Xtreme Couture, City: Toronto
+Club Name: YGK Boxing, City: Kingston
+Club Name: York Martial Arts, City: Toronto

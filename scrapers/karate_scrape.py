@@ -45,7 +45,7 @@ def insert_karate_clubs(csv_file):
     print("Karate clubs data insertion completed.")
 
 # Path to the Karate clubs CSV file
-csv_file = r'C:\Users\Jared\OneDrive - Carleton University\Desktop\Personal Projects\Martial Arts Gym Finder\scrapers\karate_clubs.csv'
+csv_file = r'C:Martial Arts Gym Finder\scrapers\karate_clubs.csv'
 
 # Insert Karate clubs into the database
 insert_karate_clubs(csv_file)

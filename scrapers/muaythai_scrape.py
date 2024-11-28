@@ -45,7 +45,7 @@ def insert_muaythai_clubs(file_path):
     print("Muay Thai clubs data insertion completed.")
 
 # File path to the Muay Thai data file
-file_path = r'C:\Users\Jared\OneDrive - Carleton University\Desktop\Personal Projects\Martial Arts Gym Finder\scrapers\muaythai.txt'
+file_path = r'C:Martial Arts Gym Finder\scrapers\muaythai.txt'
 
 # Insert Muay Thai clubs into the database
 insert_muaythai_clubs(file_path)

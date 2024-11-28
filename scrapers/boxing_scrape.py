@@ -45,7 +45,7 @@ def insert_boxing_clubs(file_path):
     print("Boxing clubs data insertion completed.")
 
 # File path to the boxing data file
-file_path = r'C:\Users\Jared\OneDrive - Carleton University\Desktop\Personal Projects\Martial Arts Gym Finder\scrapers\boxing.txt'
+file_path = r'C:Martial Arts Gym Finder\scrapers\boxing.txt'
 
 # Insert boxing clubs into the database
 insert_boxing_clubs(file_path)

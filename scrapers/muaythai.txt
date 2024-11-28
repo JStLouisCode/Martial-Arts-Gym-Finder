@@ -1,0 +1,89 @@
+Club Name: 1MR One More Round, City: Woodbridge
+Club Name: 5th Dimension Training Academy, City: Hamilton
+Club Name: 705 Striking Academy, City: Barrie
+Club Name: 9 Spears Muay Thai, City: Richmond Hill
+Club Name: 905 BJJ, City: Aurora
+Club Name: Adrenaline Training Center, City: London
+Club Name: Ajax Mix Martial Arts Academy, City: Ajax
+Club Name: Art of 8 Martial Arts Academy, City: Orangeville
+Club Name: Athena Muay Thai Academy, City: Cobourg
+Club Name: Baan Muay Thai, City: Mississauga
+Club Name: Black Eagle Martial Arts, City: Hamilton
+Club Name: Black Lotus Muay Thai, City: Orillia
+Club Name: Black Tigers Gym, City: East York
+Club Name: Boss Thai Boxing & Fitness, City: Kemptville
+Club Name: Brampton Muay Thai, City: Brampton
+Club Name: Brothers Boxing Club, City: Markham
+Club Name: Budo Canada, City: North York
+Club Name: Cardoso Boxing and Muay Thai, City: Milton
+Club Name: Darkside Muay Thai, City: Kitchener
+Club Name: Diamond Muay Thai, City: Toronto
+Club Name: Durham Martial Arts, City: Port Perry
+Club Name: Elevation Martial Arts, City: Markham
+Club Name: Elite Martial Arts Toronto, City: Toronto
+Club Name: Etobicoke Martial Arts, City: Etobicoke
+Club Name: Evolution BJJ and Muay Thai Petawawa, City: Petawawa
+Club Name: Farang Martial Arts, City: Brampton
+Club Name: Fifth Round, City: Stratford
+Club Name: Fight Factory, City: Ottawa
+Club Name: Fighters United, City: Toronto
+Club Name: Ghost Muay Thai Studio, City: Markham
+Club Name: Gracie Barra Ottawa, City: Ottawa
+Club Name: Gracie Humaita Woodbridge / Bravado Muay Thai, City: Woodbridge
+Club Name: Hamilton School of Martial Arts, City: Hamilton
+Club Name: Harrow Performance / Fight Team 8-16, City: Huntsville
+Club Name: House Of Champions Martial Arts, City: Stoney Creek
+Club Name: Kalari Kickboxing and Muay Thai, City: Thornhill
+Club Name: Kalsamrit Martial Arts, City: Bowmanville
+Club Name: Kombat Arts Training Academy, City: Mississauga
+Club Name: Large Martial Arts, City: Georgetown
+Club Name: Legacy, City: Barrie
+Club Name: Legends MMA, City: Brampton
+Club Name: Limitless Martial Arts, City: Belleville
+Club Name: London Muay Thai, City: London
+Club Name: Lotus Fitness & Thai Boxing, City: Toronto
+Club Name: Lumpini Combat International, City: Toronto
+Club Name: M-1 Thai Boxing System Inc., City: Woodbridge
+Club Name: M-Town Academy, City: Milton
+Club Name: Markham Martial Arts, City: Markham
+Club Name: MAS Thaiboxing, City: Cambridge
+Club Name: MD F.I.T.LIFE Kickboxing & Fitness Centre, City: Kanata
+Club Name: N1 Thai Boxing Academy, City: Ottawa
+Club Name: Naka Muay Thai, City: Toronto
+Club Name: NAKRB Muay Thai, City: Oshawa
+Club Name: Neak Ta, City: Ottawa
+Club Name: Niagara BJJ, City: Welland
+Club Name: Nomad Striking Academy, City: Fraserville
+Club Name: North Training Academy, City: Woodbridge
+Club Name: OBFT, City: Oakville
+Club Name: Old School Muay Thai, City: Toronto
+Club Name: Ottawa Academy of Martial Arts, City: Ottawa
+Club Name: Ottawa Fight & Fitness, City: Ottawa
+Club Name: PHADY'S MUAYTHAI, City: Cambridge
+Club Name: Pound 4 Pound Muay Thai, City: Pickering
+Club Name: Redemption Muay Thai, City: Bowmanville
+Club Name: Renfrew Muay Thai, City: Renfrew
+Club Name: Return Of The Dragon Martial Arts, City: Kitchener
+Club Name: Richmond Hill Muay Thai, City: Richmond Hill
+Club Name: Siam No1 Muay Thai Academy, City: Toronto
+Club Name: Soi Dogs MMA, City: Hamilton
+Club Name: Soul Martial Arts, City: Markham
+Club Name: Southside Muay Thai Academy, City: Scarborough
+Club Name: Spartan Martial Arts, City: Markham
+Club Name: Stride Muay Thai, City: Scarborough
+Club Name: Surge MMA, City: Orléans
+Club Name: Team Scorpion, City: Scarborough
+Club Name: Team Ultimate, City: Mississauga
+Club Name: TKO Fighting Arts : Kitchener Muay Thai, City: Kitchener
+Club Name: Toronto Muay Thai - TKMT, City: Toronto
+Club Name: Toronto NoGi, City: Toronto
+Club Name: Triumph Muay Thai, City: Scarborough
+Club Name: Twin Dragon East, City: Scarborough
+Club Name: VRTU Muay Thai, City: Toronto
+Club Name: Warrior Training Academy, City: Shannonville
+Club Name: Waterloo Muay Thai, City: Waterloo
+Club Name: Westside Muay Thai, City: Ottawa
+Club Name: Windsor Thai Boxing, City: Windsor
+Club Name: Xtreme Couture, City: Etobicoke
+Club Name: York Muay Thai, City: North York
+Club Name: Zen Mixed Martial Arts, City: Nepean

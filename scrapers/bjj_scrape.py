@@ -45,7 +45,7 @@ def insert_bjj_clubs(file_path):
     print("BJJ clubs data insertion completed.")
 
 # File path to the BJJ data file
-file_path = r'C:\Users\Jared\OneDrive - Carleton University\Desktop\Personal Projects\Martial Arts Gym Finder\scrapers\bjj.txt'
+file_path = r'C:Martial Arts Gym Finder\scrapers\bjj.txt'
 
 # Insert BJJ clubs into the database
 insert_bjj_clubs(file_path)

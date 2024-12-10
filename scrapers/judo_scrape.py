@@ -3,8 +3,8 @@ import sqlite3
 from bs4 import BeautifulSoup
 
 def scrape_clubs(pages):
-    # Establish a database connection and create the cursor
-    conn = sqlite3.connect('clubs.db')  # Make sure 'clubs.db' matches your database file
+    # Establishing a database connection and creating the cursor
+    conn = sqlite3.connect('clubs.db')  # database file
     cursor = conn.cursor()
     
     for page_url in pages:
@@ -24,7 +24,7 @@ def scrape_clubs(pages):
                 style = "Judo"  # Hardcoded style for Judo
                 organization = "Judo Canada"  # Hardcoded organization
                 
-                # Insert the data into the database
+                # Inserts data into the database
                 try:
                     cursor.execute('''
                     INSERT OR IGNORE INTO clubs (club_name, city, style, organization)
@@ -33,7 +33,7 @@ def scrape_clubs(pages):
                 except Exception as e:
                     print(f"Error inserting {club_name}: {e}")
     
-    # Commit changes and close the connection
+    # Commit changes and close connection
     conn.commit()
     conn.close()
 

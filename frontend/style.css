@@ -1,0 +1,166 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif; /* Sets the font for the entire page */
+    text-align: center; /* Centers the text */
+    margin: 20px; /* Adds padding around the content */
+    background-color: #f5f5f5; /* Light background color for better readability */
+}
+
+h1 {
+    color: red; /* Title color */
+    font-size: 2em; /* Makes the heading prominent */
+}
+
+p {
+    font-size: 1.1em; /* Standard font size for paragraph */
+    color: #333; /* Dark gray color for text */
+    line-height: 1.5; /* Improves readability */
+    max-width: 800px; /* Centers and limits the paragraph width */
+    margin: 0 auto 20px; /* Centers the paragraph and adds spacing below */
+}
+
+/* Button Container (index.html) */
+#button-container {
+    display: flex; /* Flexbox layout for easy alignment */
+    flex-direction: column; /* Stacks rows vertically */
+    align-items: center; /* Centers rows horizontally */
+    gap: 20px; /* Adds space between rows */
+    margin-top: 50px; /* Adds space above the buttons */
+}
+
+.button-row {
+    display: flex; /* Horizontal alignment for buttons */
+    justify-content: space-around; /* Spreads buttons evenly */
+    gap: 20px; /* Adds space between buttons */
+    width: 100%; /* Row takes full width */
+    max-width: 600px; /* Limits row width */
+}
+
+/* General Button Styling */
+button {
+    padding: 20px 40px; /* Makes buttons bigger */
+    font-size: 18px; /* Button text size */
+    color: white; /* Default text color */
+    border: none; /* Removes borders */
+    border-radius: 5px; /* Rounds button edges */
+    cursor: pointer; /* Shows pointer on hover */
+    transition: background-color 0.3s ease, transform 0.1s ease; /* Smooth hover effect */
+}
+
+/* Martial Art Button Colors */
+.button-boxing { background-color: red; }
+.button-karate { background-color: silver; color: black; } /* Improved readability */
+.button-muaythai { background-color: orange; }
+.button-judo { background-color: blue; }
+.button-bjj { background-color: purple; }
+.button-wrestling { background-color: gold; color: black; }
+
+/* Button Hover Effects */
+button:hover {
+    opacity: 0.9; /* Slightly darkens button on hover */
+}
+
+/* Button Active State */
+button:active {
+    transform: scale(0.95); /* Adds a press-down effect */
+}
+
+/* Styling for Search Page (search.html) */
+#search-container {
+    margin: 50px auto; /* Centers the search section */
+    max-width: 600px; /* Limits width of the container */
+    text-align: left; /* Aligns text inside the container */
+}
+
+#selected-martial-art {
+    font-size: 1.5em; /* Larger font for martial art name */
+    text-decoration: underline; /* Adds underline */
+    color: var(--martial-art-color, #333); /* Dynamically updated color */
+    text-align: center; /* Centers the title */
+    margin-bottom: 20px; /* Adds spacing below the title */
+}
+
+#search-bar {
+    display: flex; /* Flexbox layout for alignment */
+    align-items: center; /* Centers items vertically */
+    border: 2px solid #ccc; /* Adds a light border */
+    border-radius: 25px; /* Makes the bar rounded */
+    padding: 10px 15px; /* Adds padding */
+    background-color: white; /* Sets the background to white */
+    width: 100%; /* Full width of the container */
+    max-width: 600px; /* Limits max width */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for effect */
+    margin: 20px auto; /* Center alignment */
+}
+
+#search-bar input[type="text"] {
+    border: none; /* Removes the default border */
+    outline: none; /* Removes the focus outline */
+    flex: 1; /* Ensures the input grows */
+    font-size: 16px; /* Input text size */
+    margin-right: 10px; /* Space between input and buttons */
+}
+
+/* Placeholder Styling */
+#search-bar input[type="text"]::placeholder {
+    color: #aaa; /* Placeholder color */
+    font-style: italic; /* Makes it distinct */
+}
+
+/* Input Focus State */
+#search-bar input[type="text"]:focus {
+    box-shadow: 0px 0px 5px #3a67d7; /* Adds focus shadow */
+}
+
+#search-bar button {
+    background-color: #3a67d7; /* Blue color for search */
+    border: none; /* Removes border */
+    color: white; /* White text */
+    font-size: 16px; /* Button text size */
+    padding: 10px 15px; /* Button size */
+    border-radius: 20px; /* Rounds button edges */
+    cursor: pointer; /* Pointer on hover */
+    transition: background-color 0.3s; /* Smooth hover transition */
+}
+
+#search-bar button:hover {
+    background-color: #2a4fa5; /* Darker blue on hover */
+}
+
+/* Back Button Styling */
+#back-button {
+    position: fixed; /* Fixes the button at the corner */
+    bottom: 20px; /* Distance from bottom */
+    right: 20px; /* Distance from right */
+    background-color: #f44336; /* Red background */
+    color: white; /* White text */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded edges */
+    padding: 20px 30px; /* Button size */
+    font-size: 18px; /* Text size */
+    cursor: pointer; /* Pointer on hover */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+#back-button:hover {
+    background-color: #c33a2b; /* Darker red on hover */
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    #button-container {
+        flex-direction: column;
+        gap: 15px;
+    }
+    button {
+        font-size: 16px;
+        padding: 15px 30px;
+    }
+    #search-bar {
+        flex-direction: column;
+    }
+    #search-bar input {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}

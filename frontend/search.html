@@ -2,21 +2,51 @@
 <html>
 <head>
     <title>Martial Arts Gym Finder</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css"> <!-- Link to CSS for styling -->
 </head>
 <body>
+    <!-- Page Title -->
     <h1>Martial Arts Gym Finder</h1>
-    <h2 id="selected-martial-art">Martial Art</h2> <!-- This will be dynamically updated -->
+    
+    <!-- Selected Martial Art -->
+    <h2 id="selected-martial-art">Martial Art</h2> <!-- This will be dynamically updated based on the user's selection -->
+
+    <!-- Search Bar -->
     <div id="search-container">
         <div id="search-bar">
+            <!-- Text input for city or club name -->
             <input type="text" id="search-input" placeholder="Enter city or club name..." />
+            <!-- Search button with a magnifying glass icon -->
             <button id="search-button">
                 <span>&#128269;</span> <!-- Magnifying glass icon -->
             </button>
         </div>
     </div>
-    <button id="back-button" onclick="window.location.href='index.html'">Back</button>
+
+    <!-- Results Table -->
+    <div id="results-container">
+        <table id="results-table">
+            <thead>
+                <tr>
+                    <th>Club Name</th> <!-- Column for the club name -->
+                    <th>City</th> <!-- Column for the city -->
+                    <th>Style</th> <!-- Column for the martial art style -->
+                    <th>Organization</th> <!-- Column for the organization -->
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table rows will be dynamically added here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Back Button -->
+    <button id="back-button" onclick="window.location.href='index.html'">Back</button> <!-- Redirects user to the index page -->
+
+    <!-- Link to external JavaScript for dynamic behavior -->
     <script src="script.js"></script>
 </body>
 </html>
+
+
 

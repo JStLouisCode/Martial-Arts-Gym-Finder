@@ -164,3 +164,29 @@ button:active {
         margin-bottom: 10px;
     }
 }
+
+#results-table {
+    width: 70%; /* Adjusts the width to occupy 75% of the parent container */
+    margin: 20px auto; /* Centers the table horizontally */
+    border-collapse: collapse; /* Removes spacing between cells for a cleaner look */
+}
+
+#results-table th, #results-table td {
+    padding: 10px; /* Adds padding for better spacing inside cells */
+    text-align: left; /* Aligns text to the left for better readability */
+    border: 1px solid #ddd; /* Adds a border for cell separation */
+}
+
+#results-table th {
+    background-color: #3a67d7; /* Background color for header row */
+    color: white; /* Header text color */
+    font-weight: bold; /* Makes header text bold */
+}
+
+#results-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9; /* Alternating row background color for better readability */
+}
+
+#results-table tbody tr:hover {
+    background-color: #f1f1f1; /* Highlight row on hover for interactivity */
+}

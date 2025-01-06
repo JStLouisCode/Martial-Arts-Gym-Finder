@@ -36,6 +36,9 @@ This project aims to:
 ### **Database**
 - **MySQL**: Lightweight and efficient database solution for managing gym data.
 
+### **Testing**
+- **Selenium**: Automated testing for UI and functionality, ensuring seamless navigation, accurate search results, and proper form validation.
+
 ### **Hosting**
 - **AWS**: Hosting the application for scalability and availability.
 

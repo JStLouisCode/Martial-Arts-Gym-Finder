@@ -34,7 +34,7 @@ This project aims to:
 - **Python**: Supporting data processing tasks.
 
 ### **Database**
-- **SQLite**: Lightweight and efficient database solution for managing gym data.
+- **MySQL**: Lightweight and efficient database solution for managing gym data.
 
 ### **Hosting**
 - **AWS**: Hosting the application for scalability and availability.
